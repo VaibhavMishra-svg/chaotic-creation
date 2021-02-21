@@ -1,4 +1,4 @@
 # chaotic-creation
 
 
-A Web Technologies Project of COVID-19 Website using HTML, CSS, JAVASCRIPT, NODEJs & AJAX
+A Project to create a basic COVID-19 Website using HTML, CSS, JAVASCRIPT, NODEJs & AJAX under the course of Web Technologies.
